@@ -1,3 +1,3 @@
-cat .gitignore
-/analysis/data/milkyway.sh
+
+/analysis/data/milkyway.dat
 *.txt
